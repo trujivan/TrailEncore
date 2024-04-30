@@ -1,4 +1,4 @@
-Project Title: TrialEncore: Revolutionizing Clinical Trials
+# Project Title: TrialEncore: Revolutionizing Clinical Trials
 
 Submission Track: Track 2
 
@@ -12,7 +12,7 @@ Written Description:
 
 TrailEncore is an innovative digital platform designed to streamline and accelerate every stage of clinical trials, from inception to data analysis. Built with a focus on enhancing speed, quality, cost-effectiveness, and overall participant experience, TrailEncore aims to revolutionize the landscape of clinical research.
 
-Key Features:
+### Key Features:
 
 Participant Recruitment and Engagement: TrialEncore employs advanced algorithms and machine learning techniques to identify and recruit suitable participants for clinical trials. Through targeted outreach campaigns and personalized messaging, we ensure maximum engagement and participation.
 Digital Informed Consent: Our platform offers a seamless and secure digital informed consent process, allowing participants to understand and sign consent forms remotely. By digitizing this crucial step, TrailEncore reduces administrative burden and accelerates trial initiation.
@@ -21,7 +21,7 @@ Data Management and Analysis: TrailEncore provides robust data management tools 
 Compliance and Security: Committed to data privacy and security, TrailEncore adheres to the highest industry standards and regulatory requirements. We implement robust encryption protocols and data anonymization techniques to safeguard sensitive information and ensure compliance with HIPAA and GDPR regulations.
 Slide Deck: [Insert link to the slide deck]
 
-Judging Criteria:
+### Judging Criteria:
 
 Original and Creative: TrailEncore offers a novel approach to streamlining clinical trials through the integration of advanced technologies and user-centric design principles. Our innovative features, such as digital informed consent and remote monitoring, demonstrate creativity in addressing key challenges in the clinical research domain.
 Potential Impact: By accelerating clinical trials and improving participant engagement, TrailEncore has the potential to drive significant impact in healthcare and clinical research. Our platform facilitates faster trial completion, leading to expedited drug development and improved patient outcomes. Moreover, by leveraging real-world data and enhancing data quality, TrailEncore contributes to advancing scientific knowledge and innovation in healthcare.
@@ -29,13 +29,14 @@ Technical Readiness: TrailEncore prioritizes compliance, ease of use, and scalab
 With TrailEncore, we aim to empower researchers, clinicians, and participants alike, ushering in a new era of efficiency and efficacy in clinical trials. Join us in revolutionizing the future of healthcare and clinical research with TrailEncore.
 
 
-To build TrailEncore, a comprehensive digital platform for accelerating clinical trials, you would need a combination of programming languages, frameworks, and tools. Here's a breakdown of the key components and the software that can be used for each:
+#### To build TrailEncore, a comprehensive digital platform for accelerating clinical trials, you would need a combination of programming languages, frameworks, and tools. Here's a breakdown of the key components and the software that can be used for each:
 
-#Frontend Development:
+### Frontend Development:
 HTML/CSS/JavaScript: These are the fundamental languages for building the user interface and adding interactivity to web applications.
 React.js or Angular: These popular frontend frameworks can be used to create dynamic and responsive user interfaces. They offer a wide range of features and components to streamline development.
 Bootstrap or Material-UI: These frontend libraries provide pre-designed components and styles to enhance the visual appeal and usability of the application.
-Backend Development:
+
+### Backend Development:
 Node.js or Python: These backend programming languages are widely used for building server-side logic and handling data operations.
 Express.js (for Node.js) or Flask/Django (for Python): These frameworks provide a robust structure for building RESTful APIs and handling HTTP requests/responses.
 MongoDB or PostgreSQL: These databases can be used to store and manage clinical trial data. MongoDB offers flexibility and scalability, while PostgreSQL provides strong data integrity and SQL support.
@@ -56,7 +57,7 @@ Postman or Insomnia: API testing tools for validating the functionality and perf
 By leveraging these coding software and tools, you can effectively build TrailEncore, a cutting-edge platform for accelerating clinical trials and revolutionizing the landscape of healthcare research.
 
 
-#Building TrailEncore, a platform for accelerating clinical trials, involves several steps, ranging from planning and design to development and deployment. Here's a step-by-step guide to building this platform from scratch:
+#### Building TrailEncore, a platform for accelerating clinical trials, involves several steps, ranging from planning and design to development and deployment. Here's a step-by-step guide to building this platform from scratch:
 
 Step 1: Define Requirements and Plan
 Gather Requirements: Understand the needs of clinical researchers, trial participants, and regulatory bodies.
