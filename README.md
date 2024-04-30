@@ -6,9 +6,9 @@ System architecture for TrailEncore, a platform for accelerating clinical trials
 The frontend is responsible for presenting the user interface to participants, researchers, and administrators.
 
 **Components:**
-1. **User Interface (UI):** React.js or Angular will be used to create interactive and responsive user interfaces.
-2. **Client-Side Routing:** React Router or Angular Router for managing navigation between different pages.
-3. **State Management:** Redux or Angular's built-in state management for managing application state.
+1. **User Interface (UI):** React.js will be used to create interactive and responsive user interfaces.
+2. **Client-Side Routing:** React Router Router for managing navigation between different pages.
+3. **State Management:** Redux built-in state management for managing application state.
 4. **Styling:** Bootstrap or Material-UI for styling components and ensuring consistency across the application.
 
 ### Backend Architecture:
